@@ -138,7 +138,7 @@ public/
 - [ ] Solve replay
 - [ ] Cross-device sync
 - [ ] PWA support
-- [ ] Offline mode
+- [x] Offline mode
 - [ ] Mobile optimizations
 
 ---
