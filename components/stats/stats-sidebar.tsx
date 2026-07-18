@@ -51,7 +51,7 @@ export function StatsSidebar() {
         <span className="text-xs text-muted-foreground">{solves.length} solves</span>
       </div>
       <ScrollArea className="flex-1">
-        <div className="px-2 pb-4">
+        <div className="px-2 pb-4 max-h-24">
           {recent.length === 0 && (
             <p className="px-2 py-8 text-center text-sm text-muted-foreground">No solves yet</p>
           )}
